@@ -29,7 +29,9 @@ Below is a guide to the main instructional notebooks and their roles in the TBL 
 ## Citation
 
 If you use these materials or find this study helpful, please cite our paper:
-[Full Citation of Your Paper Once Published]
+```
+Osório, N.S. and Garma, L.D. (2025), Teaching Python with team-based learning: using cloud-based notebooks for interactive coding education. FEBS Open Bio. https://doi.org/10.1002/2211-5463.70097
+```
 
 ## Contact
 
